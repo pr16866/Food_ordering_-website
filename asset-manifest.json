@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Food_ordering_-website/static/css/main.b94f7a00.chunk.css",
+    "main.js": "/Food_ordering_-website/static/js/main.66491505.chunk.js",
+    "main.js.map": "/Food_ordering_-website/static/js/main.66491505.chunk.js.map",
+    "runtime-main.js": "/Food_ordering_-website/static/js/runtime-main.2579d282.js",
+    "runtime-main.js.map": "/Food_ordering_-website/static/js/runtime-main.2579d282.js.map",
+    "static/js/2.23c37cfa.chunk.js": "/Food_ordering_-website/static/js/2.23c37cfa.chunk.js",
+    "static/js/2.23c37cfa.chunk.js.map": "/Food_ordering_-website/static/js/2.23c37cfa.chunk.js.map",
+    "index.html": "/Food_ordering_-website/index.html",
+    "static/css/main.b94f7a00.chunk.css.map": "/Food_ordering_-website/static/css/main.b94f7a00.chunk.css.map",
+    "static/js/2.23c37cfa.chunk.js.LICENSE.txt": "/Food_ordering_-website/static/js/2.23c37cfa.chunk.js.LICENSE.txt",
+    "static/media/food.63bee107.jpg": "/Food_ordering_-website/static/media/food.63bee107.jpg",
+    "static/media/shef1.0da6725f.jpg": "/Food_ordering_-website/static/media/shef1.0da6725f.jpg",
+    "static/media/shef2.8a4198c1.jpg": "/Food_ordering_-website/static/media/shef2.8a4198c1.jpg",
+    "static/media/shef3.0bb27cee.jpg": "/Food_ordering_-website/static/media/shef3.0bb27cee.jpg",
+    "static/media/slide1.ddb604c9.jpg": "/Food_ordering_-website/static/media/slide1.ddb604c9.jpg",
+    "static/media/slide2.78565063.jpg": "/Food_ordering_-website/static/media/slide2.78565063.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2579d282.js",
+    "static/js/2.23c37cfa.chunk.js",
+    "static/css/main.b94f7a00.chunk.css",
+    "static/js/main.66491505.chunk.js"
+  ]
+}
